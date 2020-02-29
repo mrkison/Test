@@ -1,0 +1,4 @@
+target'testpods'do
+pod 'JYCarousel', :inhibit_warnings => true
+pod 'AFNetworking'
+end

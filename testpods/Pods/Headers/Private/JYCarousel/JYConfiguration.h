@@ -1,0 +1,1 @@
+../../../JYCarousel/JYCarousel/JYCarousel/JYConfiguration.h

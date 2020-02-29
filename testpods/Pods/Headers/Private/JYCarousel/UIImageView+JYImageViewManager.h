@@ -1,0 +1,1 @@
+../../../JYCarousel/JYCarousel/JYCarousel/UIImageView+JYImageViewManager.h
